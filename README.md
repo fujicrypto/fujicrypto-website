@@ -1,5 +1,16 @@
-# FujiCrypto Website
+# FujiCrypto Website V2
 
-Official website of FujiCrypto — blockchain, Web3, crypto technology and digital asset solutions.
+Premium corporate Web3 website for **FujiCrypto**.
 
-GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root).
+## Included
+- Stronger blockchain hero
+- Why FujiCrypto
+- Our Process
+- Premium Web3 solutions
+- Better project presentation
+- Infrastructure stack
+- Corporate footer
+- Responsive design
+
+GitHub Pages can continue using:
+**Settings → Pages → Deploy from a branch → main → /(root)**
